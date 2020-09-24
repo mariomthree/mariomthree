@@ -11,5 +11,5 @@ Hi, I'm a full stack developer, I like working with Java more, but I love PHP a 
 ### Hobies
 ***SERIES***, ***FOOTBALL***
 
-### Favorite Framework
+### Favourite Framework
 ***LARAVEL***, ***NODEJS***, ***SPRING MVC***
