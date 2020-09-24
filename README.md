@@ -6,7 +6,7 @@
 
 ### About me
 
-Hello, I am a fullsatck developer I like working with Java more but I love PHP very much. I really don't like Laravel at all 😄😄.
+Hi, I'm a full stack developer, I like working with Java more, but I love PHP a lot. I actually like laravel better. 😄😄.
 
 ### Hobies
 ***SERIES***, ***FOOTBALL***
