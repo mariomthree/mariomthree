@@ -1,16 +1,15 @@
-### Hi there 👋
+### Welcome to my world 👋
 
-<!--
-**mariomthree/mariomthree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[! [Github Badge] (https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mariomthree)] (https: // github.com/mariomthree)
+[! [Linkedin Badge] (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-manuel- mabande-23bb891b6 //)] (https://www.linkedin.com/in/mario-manuel-mabande-23bb891b6//)
+[! [Twitter Badge] (https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mariomthree)] (https: //twitter.com/mariomthree)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I am a fullsatck developer I like working with Java more but I love PHP very much. I really don't like Laravel at all 😄😄.
+
+### Hobies
+['series'], ['films'], ['football']
+
+### Favorite Framework
+[Laravel], [NodeJS]
