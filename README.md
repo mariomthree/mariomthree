@@ -8,11 +8,5 @@
 
 Hi, I'm a full stack developer, I like working with Java more, but I love PHP a lot. I actually like laravel better. 😄😄.
 
-### Favourite Languages
-***Java***, ***PHP***, ***JavaScript***
-
-### Favourite Framework
-***LARAVEL***, ***IONIC***, ***NODEJS***, ***SPRING MVC***, ***Hibernate***
-
-### Hobies
-***SERIES***, ***FOOTBALL***
+#### Favourite Languages & Framework
+***Java***, ***PHP***, ***JavaScript***, ***Laravel***, ***Ionic***, ***NodeJS***, ***Spring MVC***, ***Hibernate***
