@@ -1,3 +1,4 @@
+Software Engineer focused on user-centric solutions. Passionate about inclusive technology projects for people with disabilities.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mariomthree)](https://github.com/mariomthree)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-manuel-mabande-23bb891b6/)](https://www.linkedin.com/in/mariomthree/)
